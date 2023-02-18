@@ -1,0 +1,23 @@
+body{
+    text-align:center;
+    }
+    .button{
+    padding:15px;
+    border:2px solid black;
+    border-radius:15px;
+    margin-right:20px;
+    margin-left:20px;
+    margin-top:20px;
+    margin-bottom:20px;
+    background-color: orange;
+    color:white;
+    }
+    body{
+    background-image: url('https://preautoco.com/wp-content/uploads/2022/03/PREAUTOCO_Storyboard-Revisions_04-01-2022-1-1-scaled-e1647491605383.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    .button:hover{
+        background-color: green;
+        color:black;
+    }

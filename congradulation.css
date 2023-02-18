@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    margin-left:30%;
+    margin-right:30%;
+    margin-top:20%;
+    background-image: url('https://img.freepik.com/free-vector/successful-business-man-holding-trophy_1150-35042.jpg?w=2000');
+    background-repeat: no-repeat;
+}
+    .button{
+    padding:15px;
+    border:2px solid black;
+    border-radius:15px;
+    margin-right:20px;
+    margin-left:20px;
+    background-color: orange;
+    color:white;
+    }
+    .button:hover{
+        background-color: green;
+        color:black;
+    }

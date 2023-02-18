@@ -1,0 +1,29 @@
+.interface{
+    text-align: center;
+    margin-top:10%;
+    margin-left:20%;
+    margin-right:20%;
+    }
+    .button{
+    padding:15px;
+    border:2px solid black;
+    border-radius:15px;
+    margin-right:20px;
+    margin-top: 20%;
+    margin-left:20px;
+    background-color: orange;
+    color:white;
+    }
+    body{
+    background-image: url('https://i.ytimg.com/vi/wTRnpyrgQTA/maxresdefault.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    }
+    h1,h2{
+    color:whitesmoke ;
+    }
+    button:hover{
+        background-color: green;
+        color:black;
+        cursor: pointer;
+    }

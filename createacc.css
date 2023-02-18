@@ -1,0 +1,31 @@
+.user{
+    margin-right:20%;
+    margin-left:40%;
+    margin-top:15%;
+    margin-bottom:20%;
+    text-align:center;
+    padding:10px;
+    }
+    h1{
+    text-align:center;
+    margin-left:10%;
+    }
+    .button{
+    padding:15px;
+    border:2px solid black;
+    border-radius:15px;
+    margin-right:20px;
+    margin-left:20px;
+    background-color: orange;
+    color:white;
+    }
+    body{
+    background-image: url('https://img.freepik.com/free-vector/man-working-office_52683-18122.jpg?w=740&t=st=1674722311~exp=1674722911~hmac=784a10945f98254b2c4efd1e3e305531ff8571d03627d1c35377c0610f342018');
+    background-repeat:no-repeat;
+    background-size:fixed;
+    }
+    .button:hover{
+        background-color: green;
+        color:black;
+        cursor: pointer;
+    }
